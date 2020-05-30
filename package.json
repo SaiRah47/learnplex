@@ -24,7 +24,7 @@
     "open-coverage": "open coverage/lcov-report/index.html"
   },
   "dependencies": {
-    "@ant-design/icons": "4.1.0",
+    "@ant-design/icons": "4.2.1",
     "@next/bundle-analyzer": "9.4.2",
     "@zeit/next-less": "1.0.1",
     "antd": "4.2.5",
