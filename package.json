@@ -63,7 +63,7 @@
     "swr": "0.2.2",
     "url-join": "4.0.1",
     "urql": "1.9.7",
-    "zustand": "^2.2.3"
+    "zustand": "2.2.3"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "1.14.0",
